@@ -1,0 +1,90 @@
+[
+    {
+        "origin": {
+            "country": "Türkiye",
+            "city": "İstanbul",
+            "airportName": "İstanbul Havalimanı"
+        },
+        "destination": {
+            "country": "Türkiye",
+            "city": "Ankara",
+            "airportName": "Esenboğa Havalimanı"
+        },
+        "airplane": {
+            "model": "A320",
+            "brand": "Airbus",
+            "serialNo": "AB123",
+            "capacity": 180,
+            "yearBuilt": 2015
+        },
+        "date": "2025-06-01",
+        "time": "08:00",
+        "reservations": []
+    },
+    {
+        "origin": {
+            "country": "Türkiye",
+            "city": "İstanbul",
+            "airportName": "Sabiha Gökçen Havalimanı"
+        },
+        "destination": {
+            "country": "Türkiye",
+            "city": "İzmir",
+            "airportName": "Adnan Menderes Havalimanı"
+        },
+        "airplane": {
+            "model": "A350",
+            "brand": "Airbus",
+            "serialNo": "AB456",
+            "capacity": 300,
+            "yearBuilt": 2019
+        },
+        "date": "2025-06-01",
+        "time": "13:30",
+        "reservations": []
+    },
+    {
+        "origin": {
+            "country": "Türkiye",
+            "city": "Ankara",
+            "airportName": "Esenboğa Havalimanı"
+        },
+        "destination": {
+            "country": "Türkiye",
+            "city": "Antalya",
+            "airportName": "Antalya Havalimanı"
+        },
+        "airplane": {
+            "model": "737 MAX",
+            "brand": "Boeing",
+            "serialNo": "BO789",
+            "capacity": 200,
+            "yearBuilt": 2018
+        },
+        "date": "2025-06-02",
+        "time": "17:45",
+        "reservations": []
+    },
+    {
+        "origin": {
+            "country": "Türkiye",
+            "city": "İzmir",
+            "airportName": "Adnan Menderes Havalimanı"
+        },
+        "destination": {
+            "country": "Türkiye",
+            "city": "İstanbul",
+            "airportName": "İstanbul Havalimanı"
+        },
+        "airplane": {
+            "model": "A350",
+            "brand": "Airbus",
+            "serialNo": "AB456",
+            "capacity": 300,
+            "yearBuilt": 2019
+        },
+        "date": "2025-06-03",
+        "time": "11:15",
+        "reservations": []
+    }
+]

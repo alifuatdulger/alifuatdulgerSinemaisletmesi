@@ -1,0 +1,23 @@
+[
+    {
+        "model": "A320",
+        "brand": "Airbus",
+        "serialNo": "AB123",
+        "capacity": 180,
+        "yearBuilt": 2015
+    },
+    {
+        "model": "A350",
+        "brand": "Airbus",
+        "serialNo": "AB456",
+        "capacity": 300,
+        "yearBuilt": 2019
+    },
+    {
+        "model": "737 MAX",
+        "brand": "Boeing",
+        "serialNo": "BO789",
+        "capacity": 200,
+        "yearBuilt": 2018
+    }
+]

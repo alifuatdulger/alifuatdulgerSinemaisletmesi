@@ -1,0 +1,27 @@
+[
+    {
+        "country": "Türkiye",
+        "city": "İstanbul",
+        "airportName": "İstanbul Havalimanı"
+    },
+    {
+        "country": "Türkiye",
+        "city": "İstanbul",
+        "airportName": "Sabiha Gökçen Havalimanı"
+    },
+    {
+        "country": "Türkiye",
+        "city": "Ankara",
+        "airportName": "Esenboğa Havalimanı"
+    },
+    {
+        "country": "Türkiye",
+        "city": "İzmir",
+        "airportName": "Adnan Menderes Havalimanı"
+    },
+    {
+        "country": "Türkiye",
+        "city": "Antalya",
+        "airportName": "Antalya Havalimanı"
+    }
+]
